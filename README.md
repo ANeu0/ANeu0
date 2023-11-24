@@ -1,5 +1,3 @@
- - Hi, I’m @ANeu0
- - I’m currently in the third year of my Bachelor of Science in Computer Science.
 
 
 <!---
